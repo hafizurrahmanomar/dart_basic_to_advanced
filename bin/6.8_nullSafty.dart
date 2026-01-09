@@ -45,6 +45,7 @@ void main() {
 
   // Create a profile with no name or bio
   print('profile4');
+  
   Info profile4 = Info(null, null);
   profile4.printInfo();
 
